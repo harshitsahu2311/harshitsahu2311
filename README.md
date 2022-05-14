@@ -27,6 +27,6 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/HarshitSahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/twitter.svg" alt="shivi28" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/batrageetika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
-<a href="mailto:geetika791@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/harshit-sahu-b9a82723a" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
+<a href="mailto: harshitsahu2022@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
