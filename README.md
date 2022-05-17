@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working as Student in [Ramanujan College](https://ramanujancollege.ac.in)
 
-
-- 👯 Contributes to [Cluster API](https://github.com/kubernetes-sigs/cluster-api) and [CAPV provider](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+ 
+- 👨‍💻 Recently focusing on DEVOPS and OPEN SOURCE
 - 😄 Pronouns: he/his
 - 💞️ You can reach me out on Slack with handle `@Harshit Sahu` 
 
