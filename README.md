@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm HARSHIT</h1>
-<h3 align="center">I'm currently learning DEVOPS <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/cloud-3331240_1280.png" width="30px"> </h3>
+<h3 align="center">I'm currently learning DEVOPS <img src="https://blogs.vmware.com/management/files/2020/03/2020-03-02_14-18-57.png" width="30px"> </h3>
 
 
 
@@ -57,7 +57,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/harshit-sahu-b9a82723a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Shankar_2106"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://mail.google.com/mail/u/0/#inbox><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://www.instagram.com/harshitsahu002/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
