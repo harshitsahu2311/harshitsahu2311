@@ -1,5 +1,9 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm HARSHIT</h1>
+<p align="center">
+
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Harshit%20Sahu%20👋;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+
+</p>
 <h3 align="center">I'm currently learning DEVOPS <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/cloud-3331240_1280.png" width="30px"> </h3>
 
 
