@@ -51,9 +51,6 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/harshitsahu2311/github-readme-activity-graph"><img alt="HARSHIT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshitsahu2311&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
@@ -61,8 +58,8 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/harshitsahu2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitsahu2311" height="30" width="40" /></a>
+<a href="https://hashnode.com/@harshitsahu2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshitsahu2311" height="30" width="40" /></a>
 
-<a href = "https://www.instagram.com/harshitsahu2311/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 
