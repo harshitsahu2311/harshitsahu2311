@@ -58,7 +58,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/harshitsahu2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitsahu2311" height="30" width="40" /></a>
-<a href="https://hashnode.com/@harshitsahu2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshitsahu2311" height="30" width="40" /></a>
+<a href="https://hashnode.com/@harshit2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshit2311" height="30" width="40" /></a>
 
 
 
