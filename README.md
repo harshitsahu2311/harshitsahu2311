@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Harshit Sahu</h1>
 
 <div align="center">
-  <h3>DevOps Engineer | Cloud  Infrastucture Expert | Kubernetes | CI/CD Automation</h3>
+  <h3>DevOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD Automation</h3>
 </div>
 
 <p>
@@ -21,28 +21,27 @@
   <img src="./assets/devops-hero.gif" alt="DEVOPS" width="100%" />
 </p>
 
-<p align="center">
-</p>
+## About Me
 
-## 🙋‍♂️ About Me
-<!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
+I am a DevOps engineer focused on cloud infrastructure, deployment automation, and system reliability.
 
-- 🔭 I’m currently working on *DEVOPS*
+- **Cloud infrastructure.** I design and operate environments on AWS, Azure, and GCP.
+- **Containers.** I package applications with Docker and orchestrate them on Kubernetes.
+- **CI/CD.** I automate delivery with Jenkins, GitHub Actions, and GitLab CI/CD.
+- **Infrastructure as code.** I provision and configure systems with Terraform and Ansible.
+- **Observability.** I monitor services with Prometheus and Grafana.
+- **Systems.** I administer Linux and automate operations with Python and Bash.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+I enjoy building automation, improving deployment workflows, and contributing to open-source projects.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://linktr.ee/harshitsahu2311)**
-
-- 📫 How to reach me **harshitsahu2022@gmail.com**
-
-- ⚡ Fun fact **I am funny guy**
+[Portfolio](https://harshit-sahu-portfolio-website.vercel.app/) · [LinkedIn](https://linkedin.com/in/harshitsahu2311) · [Email](mailto:harshitsahu2022@gmail.com) · [GitHub](https://github.com/harshitsahu2311) · [YouTube](https://youtube.com/@devopsenthusiast-23) · [Hashnode](https://hashnode.com/@harshit2311)
 
 <br/>
 
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,ansible,grafana,prometheus,terraform,linux,git,githubactions,github,gitlab,mongodb,bitbucket,flask,mysql,postgres,postman,dynamodb,kafka,python,nginx,vscode,visualstudio,bash,redis,vercel,ubuntu" alt="Skills and tools" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,ansible,grafana,prometheus,terraform,linux,git,githubactions,github,gitlab,mongodb,bitbucket,flask,mysql,postgres,postman,dynamodb,kafka,python,nginx,vscode,visualstudio,bash,redis,vercel,ubuntu" alt="Skills and tools" />
 </p>
 
 
@@ -77,13 +76,12 @@
 
 <p align="center">
   <a href="https://github.com/harshitsahu2311">
-    <img align="left" width="54%" alt="HARSHIT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshitsahu2311&show_icons=true&count_private=true&line_height=30&rank_icon=github&theme=algolia" />
+    <img align="middle" width="48%" alt="Harshit Sahu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=harshitsahu2311&show_icons=true&count_private=true&line_height=27&rank_icon=github&theme=algolia&hide_border=true" />
   </a>
   <a href="https://github.com/harshitsahu2311">
-    <img align="right" width="42%" alt="HARSHIT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsahu2311&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" />
+    <img align="middle" width="44%" alt="Harshit Sahu's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsahu2311&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" />
   </a>
 </p>
-<br clear="both"/>
 
 <details open align="center">
   <summary>📈 More Stats</summary>
@@ -101,7 +99,7 @@
     </a>
     <br/><br/>
     <a href="https://github.com/harshitsahu2311">
-      <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution stats" width="100%" />
+      <img src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/profile-night-view.svg" alt="3D contribution stats" width="100%" />
     </a>
     <br/><br/>
     <a href="https://github.com/harshitsahu2311">
@@ -118,11 +116,19 @@
   </div>
 </details>
 
-<!--SNAKE-->
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img alt="Gitartwork" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/gitartwork.svg" width="100%" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/harshitsahu2311">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/github-snake-dark.svg" title="Watch the snake eat my contributions" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/github-snake.svg">
+      <img alt="github-snake" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/github-snake-dark.svg" width="100%" title="Watch the snake eat my contributions" />
+    </picture>
   </a>
 </p>
 
@@ -131,10 +137,22 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph.svg" width="100%">
     </picture>
   </a>
 </p>
+
+## Coding activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/images/stat.svg" alt="WakaTime coding activity" width="100%" />
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:dev-metrics-->
+<!--END_SECTION:dev-metrics-->
 
 <br/>
 <br/>
