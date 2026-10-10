@@ -1,12 +1,28 @@
 
-<p align="center">
+<h1 align="center">Hi, I'm Harshit Sahu</h1>
 
-  <img src="./harshit_sahu_artwork.svg" alt="Harshit Sahu" width="100%" />
+<div align="center">
+  <h3>DevOps Engineer | Cloud  Infrastucture Expert | Kubernetes | CI/CD Automation</h3>
+</div>
 
+<p>
+  <a href="https://linkedin.com/in/harshitsahu2311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/harshitsahu2311"><img src="https://img.shields.io/github/followers/harshitsahu2311?label=GitHub&style=social" alt="GitHub" /></a>
+  <a href="https://youtube.com/@devopsenthusiast-23"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://hashnode.com/@harshit2311"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="https://github.com/harshitsahu2311"><img src="https://komarev.com/ghpvc/?username=harshitsahu2311&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" /></a>
 </p>
-<h3 align="center">I'm currently learning DEVOPS <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/cloud-3331240_1280.png" width="30px"> </h3>
 
+<p align="center">
+  <img src="./harshit_sahu_artwork.svg" alt="Harshit Sahu" width="100%" />
+</p>
 
+<p align="center">
+  <img src="./assets/devops-hero.gif" alt="DEVOPS" width="100%" />
+</p>
+
+<p align="center">
+</p>
 
 ## 🙋‍♂️ About Me
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
@@ -23,10 +39,11 @@
 
 <br/>
 
-## 🚀 Languages and Tools:
-
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+<hr>
+<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,ansible,grafana,prometheus,terraform,linux,git,githubactions,github,gitlab,mongodb,bitbucket,flask,mysql,postgres,postman,dynamodb,kafka,python,nginx,vscode,visualstudio,bash,redis,vercel,ubuntu" alt="Skills and tools" />
+</p>
 
 
 
@@ -34,42 +51,93 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="left">
-    <a href="https://github.com/harshitsahu2311/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HARSHIT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsahu2311&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<br/>
-
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/harshitsahu2311/github-readme-stats"><img alt="HARSHIT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshitsahu2311&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/harshitsahu2311/github-readme-stats"><img alt="HARSHIT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsahu2311&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<h3 align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" />
+  </a>
+  <a href="https://github.com/harshitsahu2311">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+  </a>
+  【﻿Ｓｔａｔｓ】
+</h3>
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/harshitsahu2311"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="50px"></img></a>
-<a href="https://youtube.com/@devopsenthusiast-23"><img src="https://www.freeiconspng.com/thumbs/youtube-icon/video-youtube-icon--14.png" height="50px"></img></a>
-<a href="https://github.com/harshitsahu2311/"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="50px"></img></a>
-<a href="https://hashnode.com/@harshit2311" target="blank"><img src="https://github.com/harshitsahu2311/harshitsahu2311/blob/main/hashnode-icon-pngrepo-com.png" height="40px" /></a>
-
-
-
-
+<p align="center">
+  <a href="https://github.com/harshitsahu2311/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HARSHIT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsahu2311&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/harshitsahu2311/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=harshitsahu2311">
-</a>
-<a href="https://github.com/harshitsahu2311?tab=followers"><img src="https://img.shields.io/github/followers/harshitsahu2311?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img align="center" src="https://img.shields.io/github/followers/harshitsahu2311?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge" alt="GitHub followers" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img align="left" width="54%" alt="HARSHIT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshitsahu2311&show_icons=true&count_private=true&line_height=30&rank_icon=github&theme=algolia" />
+  </a>
+  <a href="https://github.com/harshitsahu2311">
+    <img align="right" width="42%" alt="HARSHIT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsahu2311&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" />
+  </a>
+</p>
+<br clear="both"/>
+
+<details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
+
+  <div align="center">
+    <a href="https://github.com/harshitsahu2311">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsahu2311&theme=algolia" width="100%" alt="Profile details" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/harshitsahu2311">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitsahu2311&theme=algolia" width="31%" align="left" alt="Repos per language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitsahu2311&theme=algolia" width="31%" align="right" alt="Most commit language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitsahu2311&theme=algolia" width="31%" align="center" alt="Productive time" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/harshitsahu2311">
+      <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution stats" width="100%" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/harshitsahu2311">
+      <img src="./3D-stats/bar_graph.png" alt="Language contribution bar graph" width="100%" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/harshitsahu2311">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsahu2311&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub activity graph" width="100%" />
+    </a>
+    <br/>
+    <a href="https://github.com/harshitsahu2311">
+      <img src="https://github-profile-trophy.vercel.app/?username=harshitsahu2311&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues" alt="GitHub trophies" />
+    </a>
+  </div>
+</details>
+
+<!--SNAKE-->
+
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/github-snake-dark.svg" title="Watch the snake eat my contributions" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph.svg">
+    </picture>
+  </a>
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
