@@ -31,13 +31,6 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Generate gitartwork
-        uses: jasineri/gitartwork@v1
-        with:
-          user_name: ${{ github.repository_owner }}
-          text: HARSHIT
-          svg_file_name: gitartwork.svg
-
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -47,9 +40,6 @@ jobs:
       - name: Collect SVGs
         run: |
           mkdir -p dist
-          if [ -f gitartwork.svg ]; then
-            mv gitartwork.svg dist/gitartwork.svg
-          fi
           if [ -d profile-3d-contrib ]; then
             cp profile-3d-contrib/*.svg dist/
           fi

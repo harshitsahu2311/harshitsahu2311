@@ -41,7 +41,7 @@ I enjoy building automation, improving deployment workflows, and contributing to
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,ansible,grafana,prometheus,terraform,linux,git,githubactions,github,gitlab,mongodb,bitbucket,flask,mysql,postgres,postman,dynamodb,kafka,python,nginx,vscode,visualstudio,bash,redis,vercel,ubuntu" alt="Skills and tools" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,ansible,grafana,prometheus,terraform,linux,git,githubactions,github,gitlab,mongodb,bitbucket,flask,mysql,postgres,postman,dynamodb,kafka,python,nginx,vscode,bash,redis,vercel,ubuntu" alt="Skills and tools" />
 </p>
 
 
@@ -101,24 +101,18 @@ I enjoy building automation, improving deployment workflows, and contributing to
     <a href="https://github.com/harshitsahu2311">
       <img src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/profile-night-view.svg" alt="3D contribution stats" width="100%" />
     </a>
-    <br/><br/>
-    <a href="https://github.com/harshitsahu2311">
-      <img src="./3D-stats/bar_graph.png" alt="Language contribution bar graph" width="100%" />
-    </a>
-    <br/><br/>
-    <a href="https://github.com/harshitsahu2311">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsahu2311&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub activity graph" width="100%" />
-    </a>
-    <br/>
-    <a href="https://github.com/harshitsahu2311">
-      <img src="https://github-profile-trophy.vercel.app/?username=harshitsahu2311&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues" alt="GitHub trophies" />
-    </a>
   </div>
 </details>
 
 <p align="center">
   <a href="https://github.com/harshitsahu2311">
-    <img alt="Gitartwork" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/gitartwork.svg" width="100%" />
+    <img src="https://github-activity-chart.vercel.app/graph?username=harshitsahu2311&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub activity graph" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img src="https://trophy.ryglcloud.net/?username=harshitsahu2311&column=4&margin-w=15&margin-h=15&no-frame=true&theme=algolia&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" alt="GitHub trophies" width="100%" />
   </a>
 </p>
 
@@ -141,18 +135,6 @@ I enjoy building automation, improving deployment workflows, and contributing to
     </picture>
   </a>
 </p>
-
-## Coding activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/images/stat.svg" alt="WakaTime coding activity" width="100%" />
-</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:dev-metrics-->
-<!--END_SECTION:dev-metrics-->
 
 <br/>
 <br/>
