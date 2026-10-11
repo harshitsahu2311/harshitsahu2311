@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "assets/clock.svg"
 
 permissions:
   contents: write

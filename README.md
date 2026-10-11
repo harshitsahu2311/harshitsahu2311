@@ -168,6 +168,16 @@ Hands-on DevOps and cloud projects covering AWS, Kubernetes, CI/CD, Terraform, a
 <br/>
 <br/>
 
+<p align="center">
+  ⏳ 𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
+</p>
+
+<p align="center">
+  <img src="./assets/clock.svg" alt="Clock" title="⌚ Front-End" width="140" />
+  &nbsp;&nbsp;
+  <img src="./assets/xlzpyflf.png" alt="Watch movement" title="⚙️ Back-End" width="140" />
+</p>
+
 <div align="center">
   <a href="https://www.buymeacoffee.com/harshitsahu2311">
     <img src="https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif" alt="Buy me a coffee" title="This supports more open-source work" align="center" />
