@@ -1,14 +1,24 @@
-# Hi, I'm Harshit Sahu
+<h1 align="center">Hi! I am Harshit Sahu</h1>
 
-### DevOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD Automation
+<h3 align="center">DevOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD Automation</h3>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)![GitHub](https://img.shields.io/github/followers/harshitsahu2311?label=GitHub&style=social)![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)![Profile views](https://komarev.com/ghpvc/?username=harshitsahu2311&label=Profile%20views&color=brightgreen&style=flat)
+<p align="center">
+  <a href="https://linkedin.com/in/harshitsahu2311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/harshitsahu2311"><img src="https://img.shields.io/github/followers/harshitsahu2311?label=GitHub&style=social" alt="GitHub" /></a>
+  <a href="https://youtube.com/@devopsenthusiast-23"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://hashnode.com/@harshit2311"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="https://github.com/harshitsahu2311"><img src="https://komarev.com/ghpvc/?username=harshitsahu2311&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" /></a>
+</p>
 
 ![Harshit Sahu](./harshit_sahu_artwork.svg)
 
 ![DEVOPS](./assets/devops-hero.gif)
 
-## ![cloud](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)  Ａｂｏｕｔ Ｍｅ  ![cloud](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="36" height="36" alt="" />
+  &nbsp;Ａｂｏｕｔ&nbsp;Ｍｅ&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="36" height="36" alt="" />
+</h2>
 
 ![Typing roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=DevOps+Engineer;Cloud+Infrastructure+on+AWS+%7C+Azure+%7C+GCP;Kubernetes+%26+CI%2FCD+Automation;Terraform+%26+Ansible+as+Code;Prometheus+%2B+Grafana+Observability)
 
