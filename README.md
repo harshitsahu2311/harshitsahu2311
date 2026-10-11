@@ -15,9 +15,9 @@
 ![DEVOPS](./assets/devops-hero.gif)
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="36" height="36" alt="" />
-  &nbsp;Ａｂｏｕｔ&nbsp;Ｍｅ&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="36" height="36" alt="" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" height="20" align="absmiddle" alt="" />
+  &nbsp;Ａｂｏｕｔ Ｍｅ&nbsp;
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" height="20" align="absmiddle" alt="" />
 </h2>
 
 ![Typing roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=DevOps+Engineer;Cloud+Infrastructure+on+AWS+%7C+Azure+%7C+GCP;Kubernetes+%26+CI%2FCD+Automation;Terraform+%26+Ansible+as+Code;Prometheus+%2B+Grafana+Observability)
@@ -34,7 +34,7 @@ I build **cloud-native infrastructure** that teams can deploy, observe, and trus
 I enjoy building automation, improving deployment workflows, and contributing to open-source projects.
 
 <p align="center">
-<img src="https://ishan-rest.vercel.app/svg/projects/hacker/Terraform_EKS[AWS%20and%20Kubernetes%20with%20Terraform,[Terraform,AWS,Kubernetes]]/AWS_CICD[Automated%20delivery%20onto%20EC2,[AWS,CodePipeline,Jenkins]]/Wanderlust_GitOps[GitOps%20and%20DevSecOps%20deploy,[Kubernetes,ArgoCD,Docker]]/Swiggy_Clone[GitHub%20Actions%20to%20Kubernetes,[GitHubActions,Docker,Kubernetes]]/" alt="Harshit Sahu DevOps projects" width="100%" />
+<img src="./assets/harshit-readme.yml.svg" alt="harshit_readme.yml" width="100%" />
 </p>
 
 [Portfolio](https://harshit-sahu-portfolio-website.vercel.app/) · [LinkedIn](https://linkedin.com/in/harshitsahu2311) · [Email](mailto:harshitsahu2022@gmail.com) · [GitHub](https://github.com/harshitsahu2311) · [YouTube](https://youtube.com/@devopsenthusiast-23) · [Hashnode](https://hashnode.com/@harshit2311)
@@ -75,28 +75,91 @@ Hands-on DevOps and cloud Projects covering AWS, Kubernetes, CI/CD, Terraform, a
 
 ## 📊 My Github Stats
 
+<h3 align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" />
+  </a>
+  <a href="https://github.com/harshitsahu2311">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+  </a>
+  【﻿Ｓｔａｔｓ】
+</h3>
 
+<p align="center">
+  <a href="https://github.com/harshitsahu2311/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HARSHIT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsahu2311&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
 
-### ![](https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif) ![](https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif) [【﻿Ｓｔａｔｓ】](https://github.com/harshitsahu2311)
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img align="center" src="https://img.shields.io/github/followers/harshitsahu2311?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge" alt="GitHub followers" />
+  </a>
+</p>
 
-![HARSHIT's streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsahu2311&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0 "🔥 Get streak stats for your profile at git.io/streak-stats")
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img align="middle" width="48%" alt="Harshit Sahu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=harshitsahu2311&show_icons=true&count_private=true&line_height=27&rank_icon=github&theme=algolia&hide_border=true" />
+  </a>
+  <a href="https://github.com/harshitsahu2311">
+    <img align="middle" width="44%" alt="Harshit Sahu's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsahu2311&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" />
+  </a>
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/harshitsahu2311?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge)
+<details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
 
-![Harshit Sahu's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitsahu2311&show_icons=true&count_private=true&line_height=27&rank_icon=github&theme=algolia&hide_border=true) ![Harshit Sahu's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsahu2311&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true)[
+  <div align="center">
+    <a href="https://github.com/harshitsahu2311">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsahu2311&theme=algolia" width="100%" alt="Profile details" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/harshitsahu2311">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitsahu2311&theme=algolia" width="31%" align="left" alt="Repos per language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitsahu2311&theme=algolia" width="31%" align="right" alt="Most commit language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitsahu2311&theme=algolia" width="31%" align="center" alt="Productive time" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/harshitsahu2311">
+      <img src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/profile-night-view.svg" alt="3D contribution stats" width="100%" />
+    </a>
+  </div>
+</details>
 
-📈 More Stats  
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img src="https://github-activity-chart.vercel.app/graph?username=harshitsahu2311&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub activity graph" width="100%" />
+  </a>
+</p>
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsahu2311&theme=algolia)   
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <img src="https://trophy.ryglcloud.net/?username=harshitsahu2311&column=4&margin-w=15&margin-h=15&no-frame=true&theme=algolia&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" alt="GitHub trophies" width="100%" />
+  </a>
+</p>
 
- ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitsahu2311&theme=algolia) ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitsahu2311&theme=algolia) [](https://github.com/harshitsahu2311)![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitsahu2311&theme=algolia)[   ](https://github.com/harshitsahu2311)
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/github-snake.svg">
+      <img alt="github-snake" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/github-snake-dark.svg" width="100%" title="Watch the snake eat my contributions" />
+    </picture>
+  </a>
+</p>
 
- ![3D contribution stats](https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/profile-night-view.svg)[
+<p align="center">
+  <a href="https://github.com/harshitsahu2311">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph.svg" width="100%">
+    </picture>
+  </a>
+</p>
 
-![GitHub activity graph](https://github-activity-chart.vercel.app/graph?username=harshitsahu2311&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)
-
-![GitHub trophies](https://trophy.ryglcloud.net/?username=harshitsahu2311&column=4&margin-w=15&margin-h=15&no-frame=true&theme=algolia&title=Stars,Followers,Repositories,Commits,PullRequest,Issues)
-
-![github-snake](https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/github-snake-dark.svg "Watch the snake eat my contributions")
-
-![pacman contribution graph](https://raw.githubusercontent.com/harshitsahu2311/harshitsahu2311/output/pacman-contribution-graph.svg)
+<br/>
+<br/>
+<br/>
+<br/>
