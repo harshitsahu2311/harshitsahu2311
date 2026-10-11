@@ -23,7 +23,9 @@ I build **cloud-native infrastructure** that teams can deploy, observe, and trus
 
 I enjoy building automation, improving deployment workflows, and contributing to open-source projects.
 
-![Terminal: ls then cat harshit_sahu.txt](./assets/about-me-terminal.svg)
+<p align="center">
+<img src="https://ishan-rest.vercel.app/svg/projects/hacker/Terraform_EKS[AWS%20and%20Kubernetes%20with%20Terraform,[Terraform,AWS,Kubernetes]]/AWS_CICD[Automated%20delivery%20onto%20EC2,[AWS,CodePipeline,Jenkins]]/Wanderlust_GitOps[GitOps%20and%20DevSecOps%20deploy,[Kubernetes,ArgoCD,Docker]]/Swiggy_Clone[GitHub%20Actions%20to%20Kubernetes,[GitHubActions,Docker,Kubernetes]]/" alt="Harshit Sahu DevOps projects" width="100%" />
+</p>
 
 [Portfolio](https://harshit-sahu-portfolio-website.vercel.app/) · [LinkedIn](https://linkedin.com/in/harshitsahu2311) · [Email](mailto:harshitsahu2022@gmail.com) · [GitHub](https://github.com/harshitsahu2311) · [YouTube](https://youtube.com/@devopsenthusiast-23) · [Hashnode](https://hashnode.com/@harshit2311)
 
