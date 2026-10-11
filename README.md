@@ -10,9 +10,13 @@
   <a href="https://github.com/harshitsahu2311"><img src="https://komarev.com/ghpvc/?username=harshitsahu2311&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" /></a>
 </p>
 
-![Harshit Sahu](./harshit_sahu_artwork.svg)
+<p align="center">
+  <img src="./harshit_sahu_artwork.svg" alt="Harshit Sahu" width="100%" />
+</p>
 
-![DEVOPS](./assets/devops-hero.gif)
+<p align="center">
+  <img src="./assets/devops-hero.gif" alt="DEVOPS" width="100%" />
+</p>
 
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" height="20" align="absmiddle" alt="" />
@@ -20,7 +24,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" height="20" align="absmiddle" alt="" />
 </h2>
 
-![Typing roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=DevOps+Engineer;Cloud+Infrastructure+on+AWS+%7C+Azure+%7C+GCP;Kubernetes+%26+CI%2FCD+Automation;Terraform+%26+Ansible+as+Code;Prometheus+%2B+Grafana+Observability)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=DevOps+Engineer;Cloud+Infrastructure+on+AWS+%7C+Azure+%7C+GCP;Kubernetes+%26+CI%2FCD+Automation;Terraform+%26+Ansible+as+Code;Prometheus+%2B+Grafana+Observability" alt="Typing roles" />
+</p>
 
 I build **cloud-native infrastructure** that teams can deploy, observe, and trust in production. My work sits at the intersection of automation, reliability, and clean delivery workflows.
 
@@ -49,7 +55,7 @@ I enjoy building automation, improving deployment workflows, and contributing to
 
 ## Featured Projects
 
-Hands-on DevOps and cloud Projects covering AWS, Kubernetes, CI/CD, Terraform, and observability. Code links go to public GitHub repositories I verified. Write-ups go to the matching Hashnode posts.
+Hands-on DevOps and cloud projects covering AWS, Kubernetes, CI/CD, Terraform, and observability. Code links go to public GitHub repositories. Write-ups go to the matching Hashnode posts.
 
 
 |                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                            |
@@ -64,11 +70,11 @@ Hands-on DevOps and cloud Projects covering AWS, Kubernetes, CI/CD, Terraform, a
 | Terraform + EKS deployment       | AWS and Kubernetes infrastructure with Terraform and a Jenkins CI/CD path onto EKS                                                                                                                                               | [Code](https://github.com/harshitsahu2311/terraform-k8s-project) · [Write-up](https://harshitsahu2311.hashnode.dev/project-tf-k8s-deployment-in-eks-cluster)                                                              |
 | AWS CI/CD pipeline               | Automated delivery with CodeCommit, CodeBuild, CodeDeploy, and CodePipeline onto EC2                                                                                                                                             | [Code](https://github.com/harshitsahu2311/AWS-DevOps-Project) · [Write-up](https://harshitsahu2311.hashnode.dev/project-aws-devops-deployment)                                                                            |
 | Multi-environment Terraform      | Infrastructure as Code for separate AWS environments                                                                                                                                                                             | [Code](https://github.com/harshitsahu2311/Terraform-project) · [Series](https://harshitsahu2311.hashnode.dev/series/terraform-infrastructure-as-code)                                                                     |
-| Amazon Prime clone on Kubernetes | CI/CD with image and code scanning, then Kind cluster deployment. Monitoring with Prometheus and Grafana is covered in the [Netflix clone write-up](https://harshitsahu2311.hashnode.dev/netflix-clone-deployment-on-kubernetes) | [Code](https://github.com/harshitsahu2311/Amazon-Prime-Clone-App) · [Write-up](https://harshitsahu2311.hashnode.dev/project-end-to-end-cicd-pipeline-of-amazon-prime-clone)                                               |
+| Amazon Prime clone on Kubernetes | CI/CD with image and code scanning, then Kind cluster deployment | [Code](https://github.com/harshitsahu2311/Amazon-Prime-Clone-App) · [Write-up](https://harshitsahu2311.hashnode.dev/project-end-to-end-cicd-pipeline-of-amazon-prime-clone)                                               |
 | Swiggy clone with GitHub Actions | Automated build and Kubernetes deploy using GitHub Actions                                                                                                                                                                       | [Code](https://github.com/harshitsahu2311/Swiggy-Clone-Deployment) · [Write-up](https://harshitsahu2311.hashnode.dev/deploy-a-swiggy-clone-using-github-actions)                                                          |
 | Reddit clone with Ingress        | Kubernetes ingress and service routing                                                                                                                                                                                           | [Code](https://github.com/harshitsahu2311/reddit-clone-kubernetes-projects) · [Write-up](https://harshitsahu2311.hashnode.dev/ultimate-kubernetes-project-using-ingress)                                                  |
 | Wanderlust GitOps                | GitOps and DevSecOps deployment of the Wanderlust app                                                                                                                                                                            | [Code](https://github.com/harshitsahu2311/Wanderlust-GitOps-Project) · [App repo](https://github.com/harshitsahu2311/Wanderlust-Project) · [Write-up](https://harshitsahu2311.hashnode.dev/project-wanderlust-deployment) |
-| Centralized logging              | ELK stack walkthrough. I have not published a matching public repo for this, or for Loki                                                                                                                                         | [Write-up](https://harshitsahu2311.hashnode.dev/zero-to-hero-elk-stack) · Repo: `_add GitHub URL_`                                                                                                                        |
+| Centralized logging              | ELK stack walkthrough. No public Loki/EFK repo is published yet                                                                                                                                                                  | [Write-up](https://harshitsahu2311.hashnode.dev/zero-to-hero-elk-stack)                                                                                                                        |
 
 
 
@@ -161,5 +167,17 @@ Hands-on DevOps and cloud Projects covering AWS, Kubernetes, CI/CD, Terraform, a
 
 <br/>
 <br/>
-<br/>
-<br/>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/harshitsahu2311">
+    <img src="https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif" alt="Buy me a coffee" title="This supports more open-source work" align="center" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/harshitsahu2311"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting!;Take%20a%20look%20at%20my%20repositories;Follow%20for%20DevOps%20and%20cloud%20work&font=Fira+Code&center=true&width=650&height=80&color=58a6ff&vCenter=true&size=18" alt="Thanks for visiting" /></a>
+</p>
+
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20top-0b6ab3?style=flat" alt="Back to top" /></a>
+</p>
